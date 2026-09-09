@@ -49,14 +49,14 @@ If an item is only a model card, a framework hello-world, or a landing page with
 - [The Mom Test](https://www.momtestbook.com/) — Behavioral evidence over compliments.
 - [Jobs to Be Done interview resources](https://jobs-to-be-done.com/) — Demand lives in the job, not in your feature list.
 - [Indie Hackers Interviews](https://www.indiehackers.com/interviews) — Revenue numbers attached to boring products. Use as pattern library, not as a personality cult.
-- [MicroConf / TinySeed library](https://www.tinyseed.com/) — Bootstrapped operators talking about getting to $10k months without a growth team.
+- [TinySeed](https://www.tinyseed.com/) — Bootstrapped operators talking about getting to $10k months without a growth team.
 
 ## Offers and pricing
 
 - [$100M Offers — Hormozi](https://acquisition.com/books/offers) — Grandiose title, usable offer math: dream outcome, time delay, effort, risk.
-- [Pricing Startup Software](https://www.chargebee.com/resources/guides/saas-pricing-strategy-guide/) — Practical SaaS pricing structures when you are past "I guess $9."
+- [SaaS pricing strategy guide](https://www.chargebee.com/resources/guides/saas-pricing-strategy-guide/) — Practical structures when you are past "I guess $9."
 - [Patrick McKenzie on pricing](https://www.kalzumeus.com/2009/04/05/pricing-experiments/) — Old, still the cleanest public writing on charging more than feels polite.
-- [Dewancorp / patio11 bits](https://www.kalzumeus.com/) — Sell to businesses. Invoice. Stop undercharging because the model was free to you.
+- [kalzumeus.com](https://www.kalzumeus.com/) — Sell to businesses. Invoice. Stop undercharging because the model was free to you.
 
 ## Get paid
 
@@ -67,7 +67,8 @@ Prefer rails that let a one-person shop sell globally without inventing tax soft
 - [Lemon Squeezy](https://www.lemonsqueezy.com/) — Merchant of record for digital goods. Fine when tax compliance is the bottleneck.
 - [Gumroad](https://gumroad.com/) — Fastest path for a file or a course. Ugly on purpose. Ships.
 - [Paddle](https://www.paddle.com/) — MoR for software when you outgrow the first checkout.
-- [Teachable / TPT / KDP](https://www.teacherspayteachers.com/) — Existing marketplaces. Worse margins, real buyers already standing there.
+- [Teachers Pay Teachers](https://www.teacherspayteachers.com/) — Existing marketplace. Worse margins, real buyers already standing there.
+- [Kindle Direct Publishing](https://kdp.amazon.com/) — Same idea for short books and series.
 
 Skip anything that only meters *your* inference credits and calls that a business model.
 
@@ -75,10 +76,10 @@ Skip anything that only meters *your* inference credits and calls that a busines
 
 - [Google Search Central](https://developers.google.com/search/docs) — One useful page that answers a query still beats ten agent-generated posts.
 - [AlternativeTo](https://alternativeto.net/) — Directory that actual humans use when they hate the incumbent.
-- [Hugo / 11ty static sites](https://www.getzola.org/) — Zola is listed because a directory site should be a folder of HTML, not a Next.js bill.
+- [Zola](https://www.getzola.org/) — Static site generator. A directory should be a folder of HTML, not a Next.js bill.
 - [Astro](https://astro.build/) — Same idea: ship pages, not a framework essay.
+- [Eleventy](https://www.11ty.dev/) — Another good default for a one-person site that just needs to exist.
 - [Pinterest business docs](https://business.pinterest.com/) — Organic discovery for visual products (printables, lesson packs, covers). Pins are pages with a URL.
-- [KDP University](https://kdp.amazon.com/) — Marketplace with intent. Agents can draft; you still own the positioning.
 
 ## Local-first runtimes
 
@@ -95,7 +96,7 @@ Run the model where the files already are.
 
 Not a census of every "agent framework." Things a person has been known to leave running.
 
-- [OpenClaw](https://github.com/topics/openclaw) — Local-ish personal agent pattern: channels, memory, skills, always-on. Search the topic; implementations fork weekly.
+- [OpenClaw topic](https://github.com/topics/openclaw) — Local-ish personal agent pattern: channels, memory, skills, always-on. Implementations fork weekly; start at the topic, not a random clone.
 - [Goose](https://github.com/block/goose) — Block's open-source engineering agent with an extensible toolkit.
 - [Aider](https://github.com/Aider-AI/aider) — Terminal coding agent that works against a git repo and leaves real commits.
 - [Cline](https://github.com/cline/cline) — VS Code agent with MCP, browser, and terminal. Useful; watch what it sends off-box.
@@ -106,10 +107,9 @@ Not a census of every "agent framework." Things a person has been known to leave
 
 Skills are `SKILL.md` folders an agent loads on demand. Prefer small, inspectable skills over 8,000-file dumps.
 
-- [anthropics/skills](https://github.com/anthropics/skills) — Official format, document skills, skill-creator. Read this before you invent a schema.
-- [obra/superpowers](https://github.com/obra/superpowers) — Methodology + composable engineering skills. Heavy; steal structure, do not swallow whole.
+- [anthropics/skills](https://github.com/anthropics/skills) — Official format, document skills, and skill-creator. Read this before you invent a schema.
+- [obra/superpowers](https://github.com/obra/superpowers) — Methodology plus composable engineering skills. Heavy; steal structure, do not swallow whole.
 - [royalpinto007/awesome-agent-skills](https://github.com/royalpinto007/awesome-agent-skills) — Small, security-aware directory. Skills are code the agent trusts.
-- [skill-creator pattern](https://github.com/anthropics/skills) — Write one skill that does one job (listings, outreach drafts, page shipping). Progressive disclosure beats a 12k-token system prompt.
 
 **Skill ideas that belong on a revenue desk (write your own):**
 
@@ -121,9 +121,9 @@ Skills are `SKILL.md` folders an agent loads on demand. Prefer small, inspectabl
 ## Copy, SEO, and listings
 
 - [Google's SEO starter guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide) — Still the non-snake-oil version.
-- [Headline formulas that are not insults](https://copyhackers.com/) — Copyhackers. Direct response without the guru costume.
+- [Copyhackers](https://copyhackers.com/) — Direct-response copy without the guru costume.
 - [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/) — See what you actually published.
-- [Ahrefs / free webmaster tools](https://search.google.com/search-console) — Search Console first. Paid suites later.
+- [Google Search Console](https://search.google.com/search-console) — First measurement tool. Paid suites later.
 
 ## Boring niches that print
 
@@ -142,7 +142,7 @@ If the niche needs a sales call you will not take, pick a different niche.
 - [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) — Courses, books, papers, AI engineering. Complementary, not a competitor.
 - [awesome-personal-ai-assistants](https://github.com/elyase/awesome-personal-ai-assistants) — Self-hosted assistants on your devices.
 - [awesome-ai-agents](https://github.com/NipunaRanasinghe/awesome-ai-agents) — Broader agent tooling census.
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) — The index. This list is not listed there yet on purpose — wait 30 days and keep the quality bar.
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) — The index. Do not submit this list there until it has been public for 30 days and the quality bar still holds.
 
 ## Contribute
 
